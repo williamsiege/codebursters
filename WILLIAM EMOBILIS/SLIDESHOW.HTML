@@ -1,0 +1,30 @@
+<script >
+
+	var i = 0; //start point
+	var images = [];
+	var time = 2000;
+
+	//image list
+
+	images[0]='pictures/WallpaperStudio10-52626.jpg';
+	images[1]='pictures/WallpaperStudio10-19811.jpg';
+	images[2]='pictures/WallpaperStudio10-60869.jpg';
+
+	//change image
+	function changeImg(){
+		document.slide.src = images[i];
+
+
+		if( i < images.length - 1){
+			i++;
+		}else {i = 0;}
+
+			setTmeout("changeImg()",time);}
+	
+
+		window.onload = changeImg;
+
+		
+</script>
+
+<img name="slide" width="800" height="400">

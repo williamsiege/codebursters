@@ -1,0 +1,11 @@
+body{background-image:url("../pictures/WallpaperStudio10-67911.jpg/")
+;background-repeat: no-repeat;background-size:1860px;color: #ff0033 }
+h1{color: yellow}
+
+a{color: blue;}
+li{display: inline;border-radius: 5px}
+    p{color: yellow}
+#sloth{background-color: blue;padding:10px;text-align: center;size: 1080px}
+textarea{background-color: #ff0033}
+fieldset{border:10px solid red}
+#footer{text-align: center;}

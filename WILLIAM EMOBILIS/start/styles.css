@@ -1,0 +1,44 @@
+body{font-family:arial;
+	background-image: url("../pictures/WallpaperStudio10-52994.jpg/");
+background-repeat: no-repeat;background-size: 1960px;color: #6600cc}
+
+
+h1{font-size: 50px;text-align: center;font-style: italic;
+	font-family: MathJax_SansSerif;}
+
+	
+
+#header{background-color: #6600cc,color:#000000}
+
+	
+
+	#ttt{display: inline-table;padding: 10px;margin: 0}
+
+
+	ul{background-color: #6600cc;color: #000000}
+
+
+h2{font-family: times new roman;font-size: 30px;color: #ff66ff}
+
+
+
+#footer{text-align: center;color: #99ff66;
+	background-color:#000000;text-align: center;}
+
+
+h3{text-align: center;color: #330099}
+
+
+
+#ggg{color: #ff33ff;font-family: chandas;font-style: bold;font-size: 20px}
+
+
+
+#z{display: inline-block;color: #000000;text-align: center;font-size: 20px}
+
+
+li{color: #000000}
+
+
+
+#container{margin: 0;padding: 10px}
